@@ -1,0 +1,10 @@
+=== DODATKOWE PODSUMOWANIE (per-sample) ===
+Liczba próbek: 300
+
+Średnia poprawa ΔSI-SNR: 8.12 dB
+95% CI (bootstrap): [7.93, 8.31] dB
+% próbek z poprawą (ΔSI-SNR > 0): 100.0%
+
+Średnia poprawa ΔSTOI: 0.028
+95% CI (bootstrap): [0.025, 0.031]
+% próbek z poprawą (ΔSTOI > 0): 89.0%

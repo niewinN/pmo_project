@@ -1,0 +1,12 @@
+========== RAPORT JAKOŚCI (SI-SNR / STOI) ==========
+Data: 2026-01-21 14:31:34.871182
+Liczba przykładów: 300
+
+Średni SI-SNR noisy    : 5.00 dB
+Średni SI-SNR enhanced : 13.79 dB
+Średnia poprawa SI-SNR : 8.79 dB
+
+Średni STOI noisy      : 0.801
+Średni STOI enhanced   : 0.832
+Średnia poprawa STOI   : 0.031
+====================================================

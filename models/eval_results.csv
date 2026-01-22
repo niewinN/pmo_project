@@ -1,0 +1,5 @@
+metric,value
+avg_sisnr_noisy,5.0
+avg_sisnr_enhanced,13.68
+avg_improvement,8.68
+n_samples,9918

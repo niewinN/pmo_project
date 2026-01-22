@@ -1,0 +1,19 @@
+# dane
+clips/
+*.wav
+*.mp3
+
+# wyniki
+outputs/
+models/plots/
+
+# modele
+*.pth
+
+# python
+__pycache__/
+*.pyc
+
+# venv / conda
+env/
+.venv/

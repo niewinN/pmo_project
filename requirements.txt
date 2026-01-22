@@ -1,0 +1,11 @@
+
+torch==1.12.1
+torchaudio==0.12.1
+speechbrain==0.5.14
+numpy
+pandas
+tqdm
+matplotlib
+soundfile
+librosa
+pydub

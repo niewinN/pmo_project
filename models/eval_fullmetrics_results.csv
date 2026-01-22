@@ -1,0 +1,8 @@
+metric,value
+avg_sisnr_noisy,5.001864148775737
+avg_sisnr_enhanced,13.793739843368531
+sisnr_improvement,8.791875694592793
+avg_stoi_noisy,0.800902221954177
+avg_stoi_enhanced,0.8317094357955184
+stoi_improvement,0.03080721384134133
+n_samples,300
